@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Matrovska/static/css/main.dc35bf42.chunk.css",
+    "main.js": "/Matrovska/static/js/main.8bad800d.chunk.js",
+    "main.js.map": "/Matrovska/static/js/main.8bad800d.chunk.js.map",
+    "runtime-main.js": "/Matrovska/static/js/runtime-main.f04d637c.js",
+    "runtime-main.js.map": "/Matrovska/static/js/runtime-main.f04d637c.js.map",
+    "static/js/2.95ea9a94.chunk.js": "/Matrovska/static/js/2.95ea9a94.chunk.js",
+    "static/js/2.95ea9a94.chunk.js.map": "/Matrovska/static/js/2.95ea9a94.chunk.js.map",
+    "index.html": "/Matrovska/index.html",
+    "static/css/main.dc35bf42.chunk.css.map": "/Matrovska/static/css/main.dc35bf42.chunk.css.map",
+    "static/js/2.95ea9a94.chunk.js.LICENSE.txt": "/Matrovska/static/js/2.95ea9a94.chunk.js.LICENSE.txt",
+    "static/media/video.b7b5df9a.mp4": "/Matrovska/static/media/video.b7b5df9a.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f04d637c.js",
+    "static/js/2.95ea9a94.chunk.js",
+    "static/css/main.dc35bf42.chunk.css",
+    "static/js/main.8bad800d.chunk.js"
+  ]
+}
